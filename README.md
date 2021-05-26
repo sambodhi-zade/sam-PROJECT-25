@@ -1,1 +1,2 @@
-# sam-PROJECT-25
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
